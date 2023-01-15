@@ -1,4 +1,4 @@
-# Calkowanie-Numeryczne
+# Calkowanie-Numeryczne-CUDA
 Calkowanie Numeryczne metoda simpsona , trapezow , prostokatow .
 
 ## Sprawozdanie zrobione w formacie .ipynb
